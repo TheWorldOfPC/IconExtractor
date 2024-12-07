@@ -1,4 +1,4 @@
-# IconExtractor
+# IconExtractor - Slighty updated to work with .Net Core
 
 Icon Extractor Library for .NET
 
